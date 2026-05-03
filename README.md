@@ -5,7 +5,7 @@ A (best effort) collection of all the VIQRC-Legal Parts for Autodesk Fusion (ne√
 ## Release History & Roadmap
 
 - v1.0.0 - 2025-12-15: Initial Public Release
-- *v1.1.0 - Planned, TBD: Add uncommon structural parts and earlier game elements.*
+- v1.1.0 - 2026-05-03: Added in Uncommon structural parts, Level Up elements, and pre-assembled Traction and Intake Wheels
 
 ## Folder Structure
 
@@ -19,7 +19,8 @@ The organization of parts here is reflective of the way we've organized parts at
     - Pins
     - Standoffs
   - Electronics - If it's electrically-powered and isn't pneumatics-related, it's here
-  - Game Elements - Fields & Scoring Objects from VIQRC games past and present *As of v1.0.0 only Mix & Match and Rapid Relay are included*
+  - Game Elements - Fields & Scoring Objects from VIQRC games past and present
+    - 2026-2027 - Level Up
     - 2025-2026 - Mix & Match
     - 2024-2025 - Rapid Relay
   - Motion - If it has a square hole, goes into a square hole, or is mostly used with those things, it's here
@@ -52,7 +53,7 @@ The organization of parts here is reflective of the way we've organized parts at
     - Angle Beams - If it has a bend and it's called a beam by VEX, it's here
     - Other (Common) - Common things that don't fit elsewhere: license plates, cable clips, PET sheets, etc.
     - Plates - 3x, 4x, 6x, 12x, 14x parts that VEX call "plates"
-    - Uncommon - All the other VIQRC-legal parts. There's a lot of stuff in here from VEX retail and Hexbugs sets. *As of v1.0.0, this folder is empty*
+    - Uncommon - All the other VIQRC-legal parts. There's a lot of stuff in here from VEX retail and Hexbugs sets.
 
 ## Installation
 
