@@ -9,7 +9,7 @@ A (best effort) collection of all the VIQRC-Legal Parts for Autodesk Fusion (ne√
 
 ## Folder Structure
 
-The organization of parts here is reflective of the way we've organized parts at our home club. It should be fairly straightforward, but there are edge cases that could probably fit in several different places. Please search the repository using the name and/or part number found in the [VIQRC Legal Parts Appendix](https://content.vexrobotics.com/docs/25-26/viqrc-mix-and-match/documentation/legal-parts-rev21.pdf), [VIQRC Illegal Parts Appendix](https://content.vexrobotics.com/docs/25-26/viqrc-mix-and-match/documentation/illegal-parts-rev13.pdf), or the [VEX Robotics Website](https://vexrobotics.com) before reporting anything as missing (and know that apart from game elements, we're unlikely to include many if any illegal parts here).
+The organization of parts here is reflective of the way we've organized parts at our home club. It should be fairly straightforward, but there are edge cases that could probably fit in several different places. Please search the repository using the name and/or part number found in the [VIQRC Legal Parts Appendix](https://link.vex.com/docs/viqrc/legal-parts), [VIQRC Illegal Parts Appendix](https://link.vex.com/docs/viqrc/illegal-parts), or the [VEX Robotics Website](https://vexrobotics.com) before reporting anything as missing (and know that apart from game elements, we're unlikely to include many if any illegal parts here).
 
 - VIQRC Parts - A container to keep the top level of this repo clean and to ease importing a bit
   - Connectors - Parts for joining parts to other parts
